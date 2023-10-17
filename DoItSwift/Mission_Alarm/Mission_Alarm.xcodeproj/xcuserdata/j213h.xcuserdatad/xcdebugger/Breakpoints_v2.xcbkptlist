@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6D491A4F-157F-408B-AC56-43849116AB96"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "418F93D4-1F88-4B5D-B1AB-60E604D84CF4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mission_Alarm/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "418F93D4-1F88-4B5D-B1AB-60E604D84CF4 - 80cb8716aff1ec25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mission_Alarm.ViewController.lblPickerTime.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Mission_Alarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/j213h/Documents/DoItSwift/Mission_Alarm/Mission_Alarm/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "418F93D4-1F88-4B5D-B1AB-60E604D84CF4 - 36830c3ce91d8019"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mission_Alarm.ViewController.lblPickerTime.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Mission_Alarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/j213h/Documents/DoItSwift/Mission_Alarm/Mission_Alarm/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "418F93D4-1F88-4B5D-B1AB-60E604D84CF4 - 18d5896507310528"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mission_Alarm.ViewController.lblPickerTime.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Mission_Alarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/j213h/Documents/DoItSwift/Mission_Alarm/Mission_Alarm/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "418F93D4-1F88-4B5D-B1AB-60E604D84CF4 - fc6f34171ad87532"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mission_Alarm.ViewController.lblPickerTime.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Mission_Alarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/j213h/Documents/DoItSwift/Mission_Alarm/Mission_Alarm/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "418F93D4-1F88-4B5D-B1AB-60E604D84CF4 - b1fe3f927a2b758e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mission_Alarm.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Mission_Alarm.ViewController"
+                  moduleName = "Mission_Alarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/j213h/Documents/DoItSwift/Mission_Alarm/Mission_Alarm/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "418F93D4-1F88-4B5D-B1AB-60E604D84CF4 - aa6aa98bdaf367c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mission_Alarm.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Mission_Alarm.ViewController&gt;"
+                  moduleName = "Mission_Alarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/j213h/Documents/DoItSwift/Mission_Alarm/Mission_Alarm/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF63B3BD-ADAD-4EAA-863A-D4613F9AD3CB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mission_Alarm/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "changeDatePicker(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3FDF80F7-3BBC-466D-A2D3-6FE81A49838B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mission_Alarm/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3FDF80F7-3BBC-466D-A2D3-6FE81A49838B - 59b5d43022c5fb78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mission_Alarm.ViewController.lblCurrentTime.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Mission_Alarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/j213h/Documents/DoItSwift/Mission_Alarm/Mission_Alarm/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "3FDF80F7-3BBC-466D-A2D3-6FE81A49838B - 438bd528befb9f74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mission_Alarm.ViewController.lblCurrentTime.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Mission_Alarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/j213h/Documents/DoItSwift/Mission_Alarm/Mission_Alarm/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "3FDF80F7-3BBC-466D-A2D3-6FE81A49838B - 6981c9a9ef849c45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mission_Alarm.ViewController.lblCurrentTime.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Mission_Alarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/j213h/Documents/DoItSwift/Mission_Alarm/Mission_Alarm/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "3FDF80F7-3BBC-466D-A2D3-6FE81A49838B - 2ad45d194bcbd5d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mission_Alarm.ViewController.lblCurrentTime.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Mission_Alarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/j213h/Documents/DoItSwift/Mission_Alarm/Mission_Alarm/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "3FDF80F7-3BBC-466D-A2D3-6FE81A49838B - b1fe3f927a2b7569"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mission_Alarm.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Mission_Alarm.ViewController"
+                  moduleName = "Mission_Alarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/j213h/Documents/DoItSwift/Mission_Alarm/Mission_Alarm/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "3FDF80F7-3BBC-466D-A2D3-6FE81A49838B - aa6aa98bdaf3672e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mission_Alarm.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Mission_Alarm.ViewController&gt;"
+                  moduleName = "Mission_Alarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/j213h/Documents/DoItSwift/Mission_Alarm/Mission_Alarm/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
